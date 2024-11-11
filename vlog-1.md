@@ -1,4 +1,4 @@
-# Understanding Union and Intersection Types in TypeScript
+# The significance of union and intersection types in Typescript.
 
 Hello everyone! Let's examine two essential TypeScript features that can revolutionize how we work with types: **Union** and **Intersection Types**. These types increase the expressiveness and error resistance of your code while providing flexibility and security.
 
